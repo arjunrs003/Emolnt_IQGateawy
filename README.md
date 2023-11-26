@@ -1,5 +1,5 @@
 # Emolnt_IQGateawy
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine: <br>
 git clone git@github.com:arjunrs003/Emolnt_IQGateawy.git
 
 2. Install required dependencies
